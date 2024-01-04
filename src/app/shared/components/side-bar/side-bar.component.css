@@ -33,6 +33,9 @@
     padding-right: .5rem;
 }
 
+.side-bar__list ul li {
+    cursor: pointer;
+}
 .side-bar__separator {
     margin: 1rem 0;
 }
